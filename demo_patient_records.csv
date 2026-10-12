@@ -1,0 +1,3 @@
+patient_id,name,age,sex,phone,address,language,notes,chief_complaint,acuity,acuity_label,registered_at,temperature,heart_rate,respiratory_rate,oxygen_saturation,systolic_bp,diastolic_bp,pain_score,arrival_mode,consciousness,assessed_at
+PT20260926202527,Murali Reddy,20,Male,8792577065,Rachamanahalli,English,"i got fewer from morng 
+",i have chest pain from morning,3,Urgent,2026-09-26 20:25:27,37.0,80,18,98,120,80,5,Walk-in,Alert,2026-09-26 20:27:07
